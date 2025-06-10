@@ -85,8 +85,10 @@ body{
     font-family: var (--font-secundaria);
 }
 .apresentacao__links__link:hover{
-    background-color: #22D4FD;
-    color:#272727
+    background-color: #272525;
+    color:wheat;
+    border: 1px solid black;
+    border-radius: 2px;
 }
 .apresentacao__imagem{
     width: 50%;
